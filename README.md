@@ -1,0 +1,2 @@
+# PythonMouseLogger
+simple python script that uses PyAutoGUI and a while statement to log the mouse position into a text file if the mouse isn't moving instead of logging the same X &amp; Y continuously it just types a "." until the mouse is moved, the txt file can be found in the same directory as the python script itself and as for uses, I originally intended this to map out recoil patterns in FPS' to make hard coded anti-recoil macros using PyAutoGUI but also got bored and probably won't work as intended or at-least not as-well as other anti-recoil software
